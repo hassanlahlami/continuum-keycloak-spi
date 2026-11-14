@@ -1,3 +1,4 @@
 com.continuum.keycloak.auth.AccountStatusAuthenticatorFactory
 
 com.continuum.keycloak.auth.AdminNetworkAuthenticatorFactory
+com.continuum.keycloak.auth.DirectGrantLoaAuthenticatorFactory
